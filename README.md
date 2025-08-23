@@ -144,10 +144,6 @@ git push origin feature/yourFeature
 **Anamika Kumari**  
 📬 [GitHub](https://github.com/Anamicca23)  
 
-## 📜 License
-MIT License
-
-
 
 ## 🌟 Support & Feedback
 Star ⭐ the repo & share feedback!
